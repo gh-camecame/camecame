@@ -1,0 +1,10 @@
+{
+    "name": "camecame",
+    "version": "1.0.0",
+    "private": false,
+    "main": "./tmGlnav.min.js",
+    "license": "MIT",
+    "author": "yoshihisa ishikawa",
+    "files": [ "README.md","*.{js,json}" ],
+    "keywords": ["camecame"]
+}
