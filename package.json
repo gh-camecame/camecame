@@ -2,7 +2,7 @@
     "name": "camecame",
     "version": "1.0.3",
     "private": false,
-    "main": "./cmGlnav.min.js",
+    "main": "./cmMain.min.js",
     "license": "MIT",
     "author": "yoshihisa ishikawa",
     "files": [ "README.md","*.{js,json}" ],
