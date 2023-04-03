@@ -1,6 +1,6 @@
 {
     "name": "camecame",
-    "version": "1.0.3",
+    "version": "1.0.52",
     "private": false,
     "main": "./cmMain.min.js",
     "license": "MIT",
